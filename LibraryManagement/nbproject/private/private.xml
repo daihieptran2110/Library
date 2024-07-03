@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/prj301/LibraryManagement/web/home.jsp</file>
+            <file>file:/C:/prj301/LibraryManagement/src/java/Model/Category.java</file>
+            <file>file:/C:/prj301/LibraryManagement/src/java/Controller/MemberServlet.java</file>
+            <file>file:/C:/prj301/LibraryManagement/src/java/Controller/RegisterServlet.java</file>
+            <file>file:/C:/prj301/LibraryManagement/web/register.jsp</file>
+            <file>file:/C:/prj301/LibraryManagement/web/staff.jsp</file>
+            <file>file:/C:/prj301/LibraryManagement/src/java/Model/Book.java</file>
+            <file>file:/C:/prj301/LibraryManagement/web/WEB-INF/web.xml</file>
+            <file>file:/C:/prj301/LibraryManagement/src/java/dal/BooksDAO.java</file>
+            <file>file:/C:/prj301/LibraryManagement/src/java/Model/Account.java</file>
+            <file>file:/C:/prj301/LibraryManagement/web/login.jsp</file>
+            <file>file:/C:/prj301/LibraryManagement/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/prj301/LibraryManagement/web/admin.jsp</file>
+            <file>file:/C:/prj301/LibraryManagement/src/java/dal/CategoriesDAO.java</file>
+            <file>file:/C:/prj301/LibraryManagement/web/member.jsp</file>
+            <file>file:/C:/prj301/LibraryManagement/src/java/Controller/Logout.java</file>
+            <file>file:/C:/prj301/LibraryManagement/src/java/dal/DBContext.java</file>
+            <file>file:/C:/prj301/LibraryManagement/web/META-INF/context.xml</file>
+            <file>file:/C:/prj301/LibraryManagement/src/java/Controller/LoginServlet.java</file>
+            <file>file:/C:/prj301/LibraryManagement/src/java/Model/Members.java</file>
+            <file>file:/C:/prj301/LibraryManagement/src/java/dal/AccountDAO.java</file>
+            <file>file:/C:/prj301/LibraryManagement/src/java/Model/Staff.java</file>
+            <file>file:/C:/prj301/LibraryManagement/web/stylehome.css</file>
+        </group>
+    </open-files>
+</project-private>
